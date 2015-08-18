@@ -4,6 +4,7 @@ var gulp = require('gulp'),
 gulp.task('default', function() {
   gulp.src('nightwatch.js')
     .pipe(nightwatch({
-      configFile: 'D:/Nightwatch/node_modules/nightwatch/bin/nightwatch.json'
-      }))
-    });
+      configFile: './node_modules/nightwatch/bin/nightwatch.json'
+   
+    }))
+});

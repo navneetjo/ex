@@ -5,9 +5,9 @@
 
   <testsuite name="emsTest"
     errors="0" failures="0" hostname="" id="" package="emsTest" skipped="0"
-    tests="2" time="3.332" timestamp="Tue, 18 Aug 2015 12:35:02 GMT">
+    tests="2" time="3.364" timestamp="Tue, 18 Aug 2015 13:36:07 GMT">
   
-    <testcase name="Test for EMS-APPLICATION" time="2.907" assertions="4">
+    <testcase name="Test for EMS-APPLICATION" time="2.773" assertions="4">
 
     
 
@@ -18,7 +18,7 @@
     
     </testcase>
   
-    <testcase name="List of Employees" time="0.4250" assertions="3">
+    <testcase name="List of Employees" time="0.5910" assertions="3">
 
     
 
